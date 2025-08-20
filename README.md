@@ -5,6 +5,8 @@ hazırlanmıştır.\
 📂 Soruların çözümlerine **index.html** ve **style.css** dosyalarının
 içerisinden ulaşabilirsiniz.
 
+Not : Sprint 3 Gün 1
+
 ------------------------------------------------------------------------
 
 ## 📌 HTML Soruları
@@ -68,3 +70,5 @@ içerisinden ulaşabilirsiniz.
     **beyaz** yapınız ve ortalayınız.\
 11. `iletisim-section` altına **1px kalınlığında, kesikli, siyah
     border** ekleyiniz.
+
+------------------------------------------------------------------------
